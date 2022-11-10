@@ -111,26 +111,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       align="center"
@@ -147,16 +127,6 @@
       style="margin: 10px"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"
       alt="PostgreSQL"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
       width="40"
       height="40"
     />
