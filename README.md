@@ -183,3 +183,16 @@
   </a>
 </p>
 
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+<p align="center">
+  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+    <img width="430" align="center"
+      src="https://github-readme-stats-Zaikkoz.vercel.app/api?username=Zaikkoz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues">
+  </a>
+  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+    <img align="center"
+      src="https://github-readme-stats-Zaikkoz.vercel.app/api/top-langs/?username=Zaikkoz&layout=compact&theme=tokyonight&hide=Java" />
+  </a>
+</p>
+
+
