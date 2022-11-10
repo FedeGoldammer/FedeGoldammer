@@ -89,14 +89,6 @@
       height="40"
     />
   </a>
-  <a href="www.linux.com" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-      alt="Terminal"
-      width="40"
-  /></a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
