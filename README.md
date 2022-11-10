@@ -14,6 +14,7 @@
 ## <img src="https://media1.giphy.com/media/rJxhBPNd68KzQeMRxB/giphy.gif?cid=ecf05e47tmimj0lyeleb8c9mqkqvyvhptxjsttsjhnid2kcg&rid=giphy.gif&ct=s" width="40"> **Contact:** ️
 <p align="center">
 <a href="https://www.linkedin.com/in/federico-goldammer-084196232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Federico" height="30" width="40" /></a>
+<a href="federico.goldammer.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Federico" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fede.goldammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Federico" height="30" width="40" /></a>
 </p>
 
