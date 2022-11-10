@@ -1,3 +1,6 @@
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f3638373437343730373333613266326636393265373036393665363936643637326536333666366432663666](https://user-images.githubusercontent.com/102562484/200984365-74904d6f-cd80-4ef4-b158-819075fcf10c.gif)
+
+
 ## <p align="center">️ **Hello 👋 I'm Federico!!** 🎯️🚀️</p>
 
 <h3 align="center" >I am a 19 years old Full Stack Developer with experience working on React, Redux, Material UI, Node.js, PostgreSQL, among other technologies in the sector. I always had an interest in videogames and coding so I choose it for my career. I am characterized by my ability to solve problems, creativity, communication, resilience, autonomy and positivity. 👨‍💻👨‍💻</h3>
@@ -8,7 +11,7 @@
 
 - 🗣️ I speak both **Spanish (native)** and **English (advanced)**
 
-## <img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media0.giphy.com/media/Vc0HEZo8isj1QGwLf9/giphy.gif?cid=ecf05e477a085gezi7tdoc8u6d4qhuoxm9ah9g9bs7yat5z2&rid=giphy.gif&ct=s)" width="40"> **Contact:** ️
+## <img src="https://media1.giphy.com/media/rJxhBPNd68KzQeMRxB/giphy.gif?cid=ecf05e47tmimj0lyeleb8c9mqkqvyvhptxjsttsjhnid2kcg&rid=giphy.gif&ct=s" width="40"> **Contact:** ️
 <p align="center">
 <a href="https://www.linkedin.com/in/federico-goldammer-084196232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Federico" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fede.goldammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Federico" height="30" width="40" /></a>
