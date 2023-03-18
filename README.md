@@ -7,7 +7,7 @@
 
 ## <img src="https://media1.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e4792krn6vt67a43ec6h6prrwestdjeoemz3oax59w0&rid=giphy.gif&ct=s" width="40"> **About Me:**
 
-- 🌱 I’m currently learning **TYPESCRIPT**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 🗣️ I speak both **Spanish (native)** and **English (advanced)**
 
