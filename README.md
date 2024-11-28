@@ -3,7 +3,7 @@
 
 ## <p align="center">️ **Hello 👋 I'm Federico!!** 🎯️🚀️</p>
 
-<h3 align="center" >I am a 20 years old Full Stack Developer with experience working on React, Redux, Material UI, Node.js, PostgreSQL, among other technologies in the sector. I always had interest in videogames and coding so I choose it for my career. I am characterized by my ability to solve problems, creativity, communication, resilience, autonomy and positivity. 👨‍💻👨‍💻</h3>
+<h3 align="center" >I am a 21 years old Full Stack Developer with experience working on React, Redux, Material UI, Node.js, PostgreSQL, among other technologies in the sector. I always had interest in videogames and coding so I choose it for my career. I am characterized by my ability to solve problems, creativity, communication, resilience, autonomy and positivity. 👨‍💻👨‍💻</h3>
 
 ## <img src="https://media1.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e4792krn6vt67a43ec6h6prrwestdjeoemz3oax59w0&rid=giphy.gif&ct=s" width="40"> **About Me:**
 
